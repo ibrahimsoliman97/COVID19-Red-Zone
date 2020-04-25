@@ -1,6 +1,7 @@
-# covid19
+# COVID-19 Red Zone Mobile Application
 
-A new Flutter project.
+The application idea is fighting against COVID19 spread by activating tracking mode while we are going out.  The app will start saving your movement locations when your speed is less than 20 km/h (walking activity) on a 100 meters distance base. All your saved locations will be private until you test positive for COVID19 (I hope not for everyone) and then once you update your health condition on the application as positive case, all your movement locations will be visible by the public without exposing our personal information,  so they can prevent places that you visited and authority can start the sterilization process based on more accurate information.
+This application requires your phone number only, no other personal information needed.
 
 ## Getting Started
 
