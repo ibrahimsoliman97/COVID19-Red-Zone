@@ -17,5 +17,5 @@ This application has rejected by Google Play Store and Apple App Store because i
 
 
 ## Acknowledgement
-Thanks to my Brother Mahmoud Soliman for his help and support to make this application development happen.
-Thanks for all developer of flutter packages used in this app.
+Thanks to my Brother Mahmoud Soliman for his help and support to during this application development.
+Thanks for all developers of flutter packages used in this app.
